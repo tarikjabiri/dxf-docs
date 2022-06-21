@@ -37,7 +37,7 @@ export default defineConfig({
     },
     editLink: {
 
-      pattern: 'https://github.com/tarikjabiri/dxf-docs/edit/dev/docs/:path',
+      pattern: 'https://github.com/tarikjabiri/dxf-docs/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
   },
