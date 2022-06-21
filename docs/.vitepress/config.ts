@@ -2,7 +2,6 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   title: "dxf",
-  outDir: "../www",
   description: "A JavaScript dxf generator written in TypeScript.",
   lastUpdated: true,
   themeConfig: {
