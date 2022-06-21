@@ -8,7 +8,7 @@ export default defineConfig({
     logo: "/logo.svg",
     nav: [{ text: "Get Started", link: "/guide/" }],
     socialLinks: [
-      { icon: "github", link: "https://github.com/tarikjabiri/dxf" },
+      { icon: "github", link: "https://github.com/tarikjabiri/dxf-docs" },
     ],
     algolia: {
       appId: "ZMSRYGPU60",
