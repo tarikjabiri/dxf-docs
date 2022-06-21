@@ -8,7 +8,7 @@ export default defineConfig({
     logo: "/logo.svg",
     nav: [{ text: "Get Started", link: "/guide/" }],
     socialLinks: [
-      { icon: "github", link: "https://github.com/tarikjabiri/dxf-docs" },
+      { icon: "github", link: "https://github.com/tarikjabiri/dxf" },
     ],
     algolia: {
       appId: "ZMSRYGPU60",
@@ -37,7 +37,7 @@ export default defineConfig({
     },
     editLink: {
 
-      pattern: 'https://github.com/tarikjabiri/dxf/edit/dev/docs/:path',
+      pattern: 'https://github.com/tarikjabiri/dxf-docs/edit/dev/docs/:path',
       text: 'Edit this page on GitHub'
     },
   },
